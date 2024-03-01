@@ -1,1 +1,0 @@
-# elemetary-carousel-npm-package
