@@ -1,0 +1,29 @@
+{
+  "name": "elementary-carousel",
+  "version": "1.0.2",
+  "type": "module",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "npx rollup -c"
+  },
+  "keywords": [
+    "dev-madhurendra",
+    "carousel"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/material": "^5.15.1",
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "@types/react": "^18.2.58",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rollup": "^4.12.0",
+    "tslib": "^2.6.2"
+  }
+}
